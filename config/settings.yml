@@ -4,5 +4,7 @@ plugins:
     client: true
   online_users_active_timeago:
     default: 5
+    client: true
   online_users_requires_login:
     default: true
+    client: true
