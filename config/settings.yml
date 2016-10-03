@@ -1,0 +1,8 @@
+plugins:
+  online_users_enabled:
+    default: true
+    client: true
+  online_users_active_timeago:
+    default: 5
+  online_users_requires_login:
+    default: true

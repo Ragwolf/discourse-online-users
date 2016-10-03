@@ -1,0 +1,5 @@
+en:
+  site_settings:
+    online_users_enabled: "Allow users to see who is currently online."
+    online_users_active_timeago: "Shows all users who have been active within the last specified number of minutes"
+    online_users_requires_login: "Only show online users when logged in"
